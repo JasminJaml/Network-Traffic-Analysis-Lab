@@ -61,13 +61,13 @@ A fully isolated virtual lab environment built to simulate network reconnaissanc
 ## Screenshots
 
 ### Nmap Scan Results
-![Nmap Scan]()
+![Nmap Scan](nmap_scan.png)
 
 ### Wireshark Traffic Analysis
-![Wireshark Capture](wireshark-capture.png)
+![Wireshark Capture](capture.png)
 
 ### Lab Setup
-![VMware Lab](vmware-lab.png)
+![VMware Lab](VMware.png)
 
 ## Future Improvements
 - Automate scanning and reporting with Python scripts
