@@ -76,4 +76,4 @@ A fully isolated virtual lab environment built to simulate network reconnaissanc
 
 ---
 
-**Built as part of my practical cybersecurity training | 2025**
+**Status:** Completed (Ongoing enhancements)
