@@ -59,7 +59,15 @@ A fully isolated virtual lab environment built to simulate network reconnaissanc
 - The importance of documentation in security testing workflows
 
 ## Screenshots
-*(Add your Wireshark captures and Nmap scan results here — see below)*
+
+### Nmap Scan Results
+![Nmap Scan]()
+
+### Wireshark Traffic Analysis
+![Wireshark Capture](wireshark-capture.png)
+
+### Lab Setup
+![VMware Lab](vmware-lab.png)
 
 ## Future Improvements
 - Automate scanning and reporting with Python scripts
